@@ -1,0 +1,176 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.first-part
+{
+    height:90vh;
+	background-color: lightpink;
+	align-items: center;
+	display: flex;
+	padding: 30px;
+	gap: 180px;
+	justify-content: center;
+}
+.txt-info
+{
+	font-size: 45px;
+}
+.txt-info1
+{
+	font-size: 17px;
+}
+.image-first
+{
+	width: 565px;
+}
+.btn
+{  padding: 12px 20px;
+		border: none;
+		background-color: deeppink;
+}
+.feature-flowers
+{
+	height:90vh;
+	background-position:center;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	padding: 40px;
+}
+
+}
+.fea-txt
+{
+	font-size: 30px;
+}
+.p-txt{
+	font-size: 17px;
+}
+.box
+{
+	width:0; height:0;
+    border: 180px solid pink;
+    border-top-left-radius: 180px;
+    border-top-right-radius: 180px;
+
+    background-image: url('./flower-shop-assignment-main/pngwing 5');
+	display: flex;
+	justify-content: center;
+
+}
+.boxes{
+	display: flex;
+	justify-content: space-around;
+}
+
+.section{
+ 
+	display: flex;
+	width: 85%;
+	height: 10vh;
+	justify-content: space-around;
+	align-items: center;
+	padding: 25px;
+	background-color: lightgray;
+	margin: 30px;
+}
+.nd-part
+{
+	height:60vh;
+	background-color: pink;
+	align-items: center;
+	display: flex;
+	padding: 30px;
+	gap: 180px;
+	justify-content: center;
+}
+.image1-first
+{
+	width: 250px;
+}
+.txt-info2
+{
+	font-size: 30px;
+}
+.txt-ifo3
+{
+	justify-content: space-around;
+	font-size: 17px;
+}
+.btn-pri
+{
+	padding: 12px 20px;
+		border-radius: 10%;
+		background-color: deeppink;
+}
+.hot-deal
+{
+	justify-content: space-around;
+	align-items: center;
+	margin: 10px;
+	text-align: center;
+}
+.insta
+{
+	height:50vh;
+	text-align: center;
+	padding: 60px;
+	}
+.img-third
+{
+	width: 230px;
+
+}
+.react-box
+{
+	width: 150px;
+	padding: 30px;
+	gap: 90px;
+	display: flex;
+	}
+	.deals
+	{ height: 50vh;
+		background-image: url('./flower-shop-assignment-main/Rectangle 9.png');
+	background-position:center;
+	background-blend-mode:overlay;
+	background-repeat:no-repeat;
+	background-size:cover;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	}
+	.comment-box
+	{
+	width: 500px;
+	height: 10px;
+	text-align: center;
+	justify-content: space-around;
+		padding: 25px;
+	background-color: white;
+	margin: 30px;
+	}
+	.email
+	{
+		font-size: 17px;
+		text-align: center;
+	}
+	.subs
+	{
+		padding: 12px 20px;
+		border-radius: 10%;
+		margin: 20px;
+		background-color: deeppink;
+
+	}
+	.floweshop
+	{  height: 50vh;
+	   color: white;
+	   text-align: center;
+	   padding: 50px;
+      background-color: black;
+      font-display: auto;
+
+	}
